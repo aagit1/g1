@@ -1,3 +1,4 @@
+// test comment
 const wkhtmltopdf = require('wkhtmltopdf')
 
 wkhtmltopdf(input(), { output: 'vuln.pdf' })
